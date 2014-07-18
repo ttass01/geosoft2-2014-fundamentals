@@ -22,7 +22,7 @@ The evaluation is conducted based on the content of the handout, the presentatio
 
 ## Topics
 
-Make sure you cover at least the mentioned keywords, but more is better.
+Make sure you cover at least the mentioned keywords. More is better, but only really better if you evaluate alternatives, phrase opinions, and provide guidelines for your fellow students.
 
 * Disaster management - Twelsiek, Steinblum
 * Tools for Collaborative Software Development (GitHub, Trello, wikis, ...) - Bodem, Weber
