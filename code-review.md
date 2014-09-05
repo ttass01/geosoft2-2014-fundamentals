@@ -10,7 +10,7 @@ It is not a particular requirement that the reviewer is familiar with the progra
 
 1. *In the seminar* the reviewers and reviewees are matched randomly.
 1. Create a new issue "Code review" (or several issues if the reviewed code is split across repositories) on your repository that will be reviewed by somebody else.
-1. Get acquainted with the different types of code review by reading [this Wikipedia article](http://en.wikipedia.org/wiki/Code_review). We are not following a particular one though.
+1. Get acquainted with the different types of code review by reading [this Wikipedia article](http://en.wikipedia.org/wiki/Code_review).
 
 ## The review
 
@@ -29,11 +29,12 @@ Whenever the word "document" is used, it means that the findings of a step must 
   * http://eugenedvorkin.com/agile-code-review-guidelines/
 1. Publish your checklist somewhere accessible online (etherpad, GitHub page, personal website, ...)
 1. Try building / installing the code without looking at any documentation (this of course only makes sense if you are familiar with the programming language). Document how far you got.
-1. Look at the documentation and try to install the software (take at maximum 30 minutes to do this, the code review is more important than installation testing). Document how far you got.
+1. Look at the documentation and try to install and run the software (take at maximum 1 hour to do this, the code review is more important than installation testing). Document how far you got.
 1. Import the code into a development environment. Document how far you got.
 1. Take a look at the source code
   1. Try to get an overall feel for the architecture. Document what you understand and what not.
   1. Work through your self-created check list.
+  1. If applicable, run automated code analysis tools.
 1. Compile the code review report in form of a reply to the respective "Code review" issue(s). @mention the lecturers to notify about the review submission.
 
 ## After the review
