@@ -7,14 +7,13 @@ Handouts for background technical presentations for Geosoftware II Seminar at if
 1. Fork this project
 1. Do your research
 1. Edit the handout.md file in your folder
-1. Create a presentatation based on your handout
+1. Create a presentation based on your handout
 1. Send a pull request before the submission deadline containing your handout (not the presentation)
 1. Present at the seminar
 1. If you see an error or want to extend information of your own or a colleagues handout...
   1. Update your fork
   1. Make the changes
-  1. Send a pull request to the original author of the topic and dicuss
-  1. The original author merges your changes and sends a pull request to update the main repository
+  1. Send a pull request to the original author of the topic and dicuss your changes
 
 ## Evaluation
 
